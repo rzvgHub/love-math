@@ -1,36 +1,31 @@
-function runGame(){
-
-}
-function checkAnswer(){
-
-}
-function calculateCorrectAnswer(){
-
-}
-function incrementScore(){
-
-}
-function incrementWrongAsnwer(){
-
-}
-function displayAdditionQuestion(){
-
-}
-function displaySubstractQuestion(){
-
-}
-function displayMultiplyQuestion(){
+function runGame() {
 
 }
 
-function displayAdditionQestion {
+function checkAnswer() {
 
 }
 
-function displaySubstractQuestion {
+function calculateCorrectAnswer() {
 
 }
 
-function displayMultiplyQestion {
+function incrementScore() {
+
+}
+
+function incrementWrongAnswer() {
+
+}
+
+function displayAdditionQuestion() {
+
+}
+
+function displaySubtractQuestion() {
+
+}
+
+function displayMultiplyQuestion() {
     
 }
